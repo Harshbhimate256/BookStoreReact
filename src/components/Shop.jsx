@@ -11,7 +11,7 @@ function Shop({handleClick}) {
             })
         }
       </div>
-  )
+  )    
 }
 
 export default Shop
